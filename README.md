@@ -1,6 +1,6 @@
 # Modified version of the Huggingface library. 
 This repo is bulid on top of Huggingface transformers library: https://github.com/huggingface/transformers.git
-You can find our implementation of BART and Blenderbot at src/transformers/models/(bart|blenderbot). Make sure you are using the `encoder_experiment_v2` branch.
+You can find our implementation of BART and Blenderbot at src/transformers/models/(bart|blenderbot).
 
 ## Citation
 If you are using this library then do cite: 
